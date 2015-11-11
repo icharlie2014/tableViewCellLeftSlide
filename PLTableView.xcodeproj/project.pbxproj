@@ -18,6 +18,7 @@
 		E78C674C1BF19B2A00F42A61 /* PLTableViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E78C674B1BF19B2A00F42A61 /* PLTableViewUITests.m */; };
 		E78C675B1BF19D5A00F42A61 /* PLTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E78C675A1BF19D5A00F42A61 /* PLTableViewController.m */; };
 		E78C676C1BF1DFF500F42A61 /* PLCustomTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E78C676B1BF1DFF500F42A61 /* PLCustomTableViewController.m */; };
+		E7A7998D1BF33FE700E289C6 /* a.gif in Resources */ = {isa = PBXBuildFile; fileRef = E7A7998C1BF33FE700E289C6 /* a.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		E78C675A1BF19D5A00F42A61 /* PLTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLTableViewController.m; sourceTree = "<group>"; };
 		E78C676A1BF1DFF500F42A61 /* PLCustomTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLCustomTableViewController.h; sourceTree = "<group>"; };
 		E78C676B1BF1DFF500F42A61 /* PLCustomTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCustomTableViewController.m; sourceTree = "<group>"; };
+		E7A7998C1BF33FE700E289C6 /* a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = a.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 		E78C67261BF19B2A00F42A61 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E7A7998C1BF33FE700E289C6 /* a.gif */,
 				E78C67271BF19B2A00F42A61 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -283,6 +286,7 @@
 			files = (
 				E78C67361BF19B2A00F42A61 /* LaunchScreen.storyboard in Resources */,
 				E78C67331BF19B2A00F42A61 /* Assets.xcassets in Resources */,
+				E7A7998D1BF33FE700E289C6 /* a.gif in Resources */,
 				E78C67311BF19B2A00F42A61 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
